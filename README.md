@@ -1,6 +1,7 @@
 Hi 👋 My name is Neil Casas
 ===========================
 
+* 🐯  I'm currently a Frontend Developer for TomasinoWeb
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [neilalfonzcasas@gmail.com](mailto:neilalfonzcasas@gmail.com)
 * 🧠  I'm learning AI and low-level programming
@@ -24,8 +25,6 @@ Hi 👋 My name is Neil Casas
 <a href="http://www.github.com/neilcasas"><img src="https://github-readme-stats.vercel.app/api?username=neilcasas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="neilcasas's GitHub stats" /></a>
 
 <a href="http://www.github.com/neilcasas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neilcasas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <br>
 <img src="https://raw.githubusercontent.com/neilcasas/neilcasas/output/snake.svg" alt="Snake animation" />
-
 ###
