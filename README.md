@@ -1,7 +1,5 @@
 Hi 👋 My name is Neil Casas
 ===========================
-
-* 🐯  I'm a Software Engineer Intern at Old St. Labs
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [neilalfonzcasas@gmail.com](mailto:neilalfonzcasas@gmail.com)
 * 🧠  I'm learning AI and low-level programming
